@@ -40,7 +40,7 @@ Delta: 20 days of protection advantage
 
 | Module | File | Purpose |
 |---|---|---|
-| 🔥 **Anti-Handala Blacklist** | `anti-handala.ps1` | Blocks known Handala C2 infrastructure at firewall + DNS level |
+| 🔥 **Anti-Handala Blacklist** | `anti-han.ps1` | Blocks known Handala C2 infrastructure at firewall + DNS level |
 | 🛡️ **Wiper Shield** | `wiper-shield.ps1` | Prevents VSS deletion, remote wipe and file destruction |
 
 ---
