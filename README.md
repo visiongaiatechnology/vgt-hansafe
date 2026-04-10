@@ -11,6 +11,13 @@
 > *"Geopolitik ist Security. Security ist Geopolitik."*
 > *AGPLv3 — For Humans, not for SaaS Corporations.*
 
+## ⚠️ DISCLAIMER: EXPERIMENTAL R&D PROJECT
+
+This project is a **Proof of Concept (PoC)** Wordpress Security Layer. It is **not** a Enterprise Plugin, and can be unsafe.
+
+**Do not use this in critical production environments.** For enterprise-grade kernel-level protection, we recommend established Solutions.
+
+
 **VGT HanSafe** is a two-module defense suite released on **February 28, 2026** — 20 days before the Handala group executed a destructive wiper attack against Stryker Corporation, wiping 200,000+ devices using Microsoft Intune and VSS deletion.
 
 Both scripts were available to the VGT community **before the attack happened.**
