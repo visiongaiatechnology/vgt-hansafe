@@ -13,12 +13,20 @@
 
 ## ⚠️ DISCLAIMER: EXPERIMENTAL R&D PROJECT
 
-This project is a **Proof of Concept (PoC)** Windows Security Layer. It is **not** a Enterprise System, and can be unsafe.
+This project is a **Proof of Concept (PoC)** and part of ongoing research and development at
+VisionGaia Technology. It is **not** a certified or production-ready product.
 
-**Do not use this in critical production environments.** For enterprise-grade kernel-level protection, we recommend established Solutions.
+**Use at your own risk.** The software may contain security vulnerabilities, bugs, or
+unexpected behavior. It may break your environment if misconfigured or used improperly.
+
+**Do not deploy in critical production environments** unless you have thoroughly audited
+the code and understand the implications. For enterprise-grade, verified protection,
+we recommend established and officially certified solutions.
+
+Found a vulnerability or have an improvement? **Open an issue or contact us.**
 
 
-**VGT HanSafe** is a two-module defense suite released on **February 28, 2026** — 20 days before the Handala group executed a destructive wiper attack against Stryker Corporation, wiping 200,000+ devices using Microsoft Intune and VSS deletion.
+## **VGT HanSafe** is a two-module defense suite released on **February 28, 2026** — 20 days before the Handala group executed a destructive wiper attack against Stryker Corporation, wiping 200,000+ devices using Microsoft Intune and VSS deletion.
 
 Both scripts were available to the VGT community **before the attack happened.**
 
